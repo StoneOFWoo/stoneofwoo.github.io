@@ -1,0 +1,16 @@
+body {
+	font-family: Helvetica;
+	text-align: center;
+	background-image: url("download.jpg");
+}
+
+h1 {
+	color: white;
+	background-color: cyan;
+}
+
+h2 {
+	color: blue;
+	text-align: center;
+	
+}
